@@ -4,7 +4,7 @@ A machine learning project that predicts whether a passenger survived the Titani
 
 ## Overview
  
-This is a project I worked on to practice the basics of data science: cleaning messy data, creating new features, and training a model to predict survival (`Survived`: 0 = did not survive, 1 = survived)
+This is a group project I worked on to practice the basics of data science: cleaning messy data, creating new features, and training a model to predict survival (`Survived`: 0 = did not survive, 1 = survived)
 
 ## Approach
  
